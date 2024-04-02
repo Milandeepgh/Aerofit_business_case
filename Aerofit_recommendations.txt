@@ -1,0 +1,24 @@
+BUSINESS INSIGHTS
+
+1. KP281 product constitutes 44.44 % of total products purchased by customers followed by KP481(33.33 %).Only 22.22 % customers bought KP781 products.
+2. Maximum number of customers lie in 'lower middle' income(40k - 55k) followed by 'upper middle'(55k - 80k) and 'low' income(25k - 40k) category. Only 19 customers lie in high income(> 80k).
+3. In each Product category, 'Partnered' customers have purchased more products than 'Single' ones.
+4. There is parity between both the genders while purchasing KP281 and KP481 treadmills. For KP781, Male customers purchased almost 5 times than Female ones.
+5. Customers with higher years of education(18 - 21 years) prefer to buy KP781 product more . While customers with lesser years of education(12 - 16) prefer buying KP281 followed by KP481.
+6. Age bracket 22- 26 has the maximum amount (62) of customers followed by 34 customers in age range 26-30. There are only 5 customers in age bracket 42-46 .
+7. Customers who had purchased KP781 walk more Miles on an average than those who uses KP481 and KP281.
+8. Customers with income higher than 70000 USD (US Dollar) prefer to buy KP781 product. Customers with income between 40000 USD and 55000 USD tend to buy KP281 and KP481. 
+9. Males have higher median Income than female counterparts in each product category.
+10. Customers with higher income have better Fitness rating on an average and walks more distance on Treadmill.
+11. There are approx. 14 % (26) customers who have used Products more than 4 times per week.Out of these customers, 21 customers (81 %) use KP781 treadmill.
+12. 90% of 'lower middle' income customers buy KP281(49%) and KP481(41%) products.
+13. 100% of customers belonging to 'high' income(> 80k USD) purchase KP781.
+
+ACTIONABLE INSIGHTS (RECOMMENDATIONS)
+
+1. Product KP781 should be shown to a customer belonging to 'high' income level/more years of education/ higher Fitness rating/ more weekly Usage/ higher Miles value.
+2. Partnered customers have higher probability to purchase any Product.
+3. Males have higher probability to buy KP781 product.
+4.  There is not much relationship between Age and Fitness rating of customer.
+5. Since Age and Income are positively correlated, Customer above 35 should be persuaded to buy KP781.
+6. Product KP481/KP281 should be revealed to customers belonging to upper middle/lower middle/low income bracket and customers who have less usage of the product.
